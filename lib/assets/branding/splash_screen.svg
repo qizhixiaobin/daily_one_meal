@@ -1,0 +1,19 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="1080" y1="0" x2="0" y2="1920" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF9EC"/><stop offset="1" stop-color="#F1E2C2"/></linearGradient>
+    <linearGradient id="bowl" x1="540" y1="1050" x2="540" y2="1391" gradientUnits="userSpaceOnUse"><stop stop-color="#5E9883"/><stop offset="1" stop-color="#2E6D62"/></linearGradient>
+    <linearGradient id="sun" x1="540" y1="706" x2="540" y2="930" gradientUnits="userSpaceOnUse"><stop stop-color="#F7CE6A"/><stop offset="1" stop-color="#E99B45"/></linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#background)"/>
+  <path d="M0 216C201 174 324 249 540 216C756 183 873 174 1080 222V0H0V216Z" fill="#F7EED9"/>
+  <circle cx="540" cy="813" r="142" fill="url(#sun)"/>
+  <path d="M355 834C400 806 445 796 487 798C525 800 540 815 565 833C592 853 631 852 670 833C708 814 749 809 788 834" stroke="#E3A34D" stroke-width="14" stroke-linecap="round"/>
+  <path d="M270 1077C270 1267 388 1390 540 1390C692 1390 810 1267 810 1077H270Z" fill="url(#bowl)"/>
+  <path d="M270 1077C270 1014 390 974 540 974C690 974 810 1014 810 1077C810 1141 690 1179 540 1179C390 1179 270 1141 270 1077Z" fill="#38776B"/>
+  <ellipse cx="540" cy="1071" rx="234" ry="66" fill="#FBF4DE"/>
+  <path d="M393 1071C405 1023 452 1009 479 1044C493 1007 548 1011 556 1052C583 1019 638 1027 645 1070C603 1099 452 1102 393 1071Z" fill="#66A06D"/>
+  <path d="M632 1036C650 1009 685 1010 698 1040C710 1066 694 1093 663 1098C636 1102 618 1086 620 1066C622 1053 625 1044 632 1036Z" fill="#E88748"/>
+  <path d="M334 1123C374 1155 447 1174 540 1174C633 1174 706 1155 746 1123" stroke="#91C1A5" stroke-width="12" stroke-linecap="round" opacity=".75"/>
+  <text x="540" y="1518" text-anchor="middle" fill="#315F55" font-family="Noto Serif CJK SC, SimSun, serif" font-size="82" font-weight="700" letter-spacing="10">日行一膳</text>
+  <text x="540" y="1594" text-anchor="middle" fill="#7C8067" font-family="Arial, sans-serif" font-size="29" letter-spacing="8">ONE DAY · ONE GOOD MEAL</text>
+</svg>
